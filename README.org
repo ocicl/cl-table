@@ -1,0 +1,10 @@
+* cl-table
+
+GtkTreeStore-like tables with sorting, selecting and rows hierarchy
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Kalimehtar/cl-table.git   |
+| commit  | 5370523  |
+| systems | cl-table |
+|---------+-------------------------------------------|
+
